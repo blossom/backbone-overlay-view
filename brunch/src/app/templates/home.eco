@@ -1,0 +1,7 @@
+<div id="content">
+  <h1>Backbone Overlay</h1>
+  <div id="open-standard-overlay">open standard overlay</div>
+  <div id="open-backdrop-overlay">open backdrop overlay</div>
+  <div id="open-fade-overlay">open fade overlay</div>
+  <div id="open-rerender-overlay">open rerender overlay</div>
+</div>
